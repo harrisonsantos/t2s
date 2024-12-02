@@ -1,0 +1,9 @@
+botbuilder-integration-aiohttp>=4.14.0
+aiohttp
+botbuilder-core
+botbuilder-schema
+python-dotenv
+adaptivecards
+openai
+azure-identity
+
