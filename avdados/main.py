@@ -97,7 +97,6 @@ def generate_sql_from_natural_language(query):
 
     return sql_query.strip()
 
-
 # Obtém a descrição do esquema do banco de dados
 def get_database_schema_description():
     conn = psycopg2.connect(

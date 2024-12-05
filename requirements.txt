@@ -8,3 +8,4 @@ psycopg2
 matplotlib
 pandas
 langchain
+psycopg2-binary
